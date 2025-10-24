@@ -1,2 +1,2 @@
-# VE-BRB-fault-diagnosis
-MATLAB implementation of the Vibration-Enhanced BRB model for fault diagnosis
+# Raw data are from the CWRU and HUST bearing datasets (publicly available).
+
